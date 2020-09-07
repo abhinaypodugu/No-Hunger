@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762151728076",
+    "firebase_url": "https://zerohunger-login.firebaseio.com",
+    "project_id": "zerohunger-login",
+    "storage_bucket": "zerohunger-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762151728076:android:8303ac22af7f8cce21a369",
+        "android_client_info": {
+          "package_name": "com.example.zerohungerlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762151728076-fkqavinrdvkg05hkb10b1dm2uldf70gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zerohungerlogin",
+            "certificate_hash": "c433951e836769ed3e9c72a1dc855122a930f4e2"
+          }
+        },
+        {
+          "client_id": "762151728076-d2jh02893q5ga1kc3gr6tr7mps9u1iut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm4fEBafw6NJ5pgG2bEQ2b4pFe6L5QdEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762151728076-d2jh02893q5ga1kc3gr6tr7mps9u1iut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

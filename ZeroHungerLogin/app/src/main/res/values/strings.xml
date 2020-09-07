@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ZeroHunger Login</string>
+    <string name="facebook_app_id">616089852436624</string>
+    <string name="fb_login_protocol_scheme">fb616089852436624</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings_page_name">Settings</string>
+    <string name="home_page_name">Make a choice, make a difference</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="ADD">ADD</string>
+    <string name="address">Address</string>
+    <string name="kgs">KGs</string>
+    <string name="curry">Curry</string>
+    <string name="rice">Rice</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="pin">pin</string>
+    <string name="name">Name</string>
+
+</resources>
